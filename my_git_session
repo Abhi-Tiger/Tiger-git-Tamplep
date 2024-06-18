@@ -1,0 +1,693 @@
+Script started on 2024-06-17 22:41:50+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;abhinavsharma@abhinavsharma: ~[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~[00m$ gir[Kt --version
+[?2004lgit version 2.43.0
+[?2004h]0;abhinavsharma@abhinavsharma: ~[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~[00m$ cd Desktop
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop[00m$ cd git
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/git[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git[00m$ git clone^V[K[Ke[7mhttps://github.com/Abhi-Tige[27m[7mr[27m[7m/mansukhi_demo.git[27m[A]0;abhinavsharma@abhinavsharma: ~/Desktop/git[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git[00m$ [C[C[C[C[C[C[C[C[Chttps://github.com/Abhi-Tiger/mansukhi_demo.git
+[?2004lgit: 'clonehttps://github.com/Abhi-Tiger/mansukhi_demo.git' is not a git command. See 'git --help'.
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/git[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git[00m$ git clone ^[[200~https://github.com/Abhi-Tiger/mansukhi_demo.git~[A]0;abhinavsharma@abhinavsharma: ~/Desktop/git[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git[00m$ [C[C[C[C[C[C[C[C[Chttps://github.com/Abhi-Tiger[9P/mansukhi_demo.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C ehttps://github.com/Abhi-Tiger/mansukhi_demo.git[A]0;abhinavsharma@abhinavsharma: ~/Desktop/git[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git[00m$ [C[C[C[C[C[C[C[C[Cehttps://github.com/Abhi-Tiger[1P/mansukhi_demo.git[A]0;abhinavsharma@abhinavsharma: ~/Desktop/git[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git[00m$ [C[C[C[C[C[C[C[C[C https://github.com/Abhi-Tiger/mansukhi_demo.git[A]0;abhinavsharma@abhinavsharma: ~/Desktop/git[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004lCloning into 'mansukhi_demo'...
+remote: Enumerating objects: 6, done.[K
+remote: Counting objects:  16% (1/6)[Kremote: Counting objects:  33% (2/6)[Kremote: Counting objects:  50% (3/6)[Kremote: Counting objects:  66% (4/6)[Kremote: Counting objects:  83% (5/6)[Kremote: Counting objects: 100% (6/6)[Kremote: Counting objects: 100% (6/6), done.[K
+remote: Compressing objects:  50% (1/2)[Kremote: Compressing objects: 100% (2/2)[Kremote: Compressing objects: 100% (2/2), done.[K
+remote: Total 6 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Receiving objects:  16% (1/6)Receiving objects:  33% (2/6)Receiving objects:  50% (3/6)Receiving objects:  66% (4/6)Receiving objects:  83% (5/6)Receiving objects: 100% (6/6)Receiving objects: 100% (6/6), done.
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/git[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git[00m$ ls
+[?2004l[0m[01;34mmansukhi_demo[0m
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/git[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git[00m$ cd mansukhi_demo
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/git/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git/mansukhi_demo[00m$ ls
+[?2004lREADME.md
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/git/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git/mansukhi_demo[00m$ cd ..
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/git[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git[00m$ cd ..[3Plscd mansukhi_demo
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/git/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git/mansukhi_demo[00m$ ls -la
+[?2004ltotal 16
+drwxrwxr-x 3 abhinavsharma abhinavsharma 4096 Jun 17 22:48 [0m[01;34m.[0m
+drwxrwxr-x 3 abhinavsharma abhinavsharma 4096 Jun 17 22:48 [01;34m..[0m
+drwxrwxr-x 8 abhinavsharma abhinavsharma 4096 Jun 17 22:48 [01;34m.git[0m
+-rw-rw-r-- 1 abhinavsharma abhinavsharma   31 Jun 17 22:48 README.md
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/git/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git/mansukhi_demo[00m$ git status
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/git/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git/mansukhi_demo[00m$ gir[Kt status
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/git/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git/mansukhi_demo[00m$ cd ..
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/git[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git[00m$ git clone ^[[200~https://github.com/Abhi-Tiger/mansukhi_demo.git~[A]0;abhinavsharma@abhinavsharma: ~/Desktop/git[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git[00m$ cd ..[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit clone ^[[200~https://github.com/Abhi-Tiger/mansukhi_demo.git~[A]0;abhinavsharma@abhinavsharma: ~/Desktop/git[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git[00m$ cd ..[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[Kgit clone [7mhttps://github.com/Abhi-Tig[27m[7me[27m[7mr/mansukhi_demo.git[27m[A]0;abhinavsharma@abhinavsharma: ~/Desktop/git[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git[00m$ [C[C[C[C[C[C[C[C[C[C^[[200~https://github.com/Abhi-Tiger/mansukhi_demo.git~[A]0;abhinavsharma@abhinavsharma: ~/Desktop/git[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git[00m$ [C[C[C[C[C[C[C[C[C[Chttps://github.com/Abhi-Tige[8Pr/mansukhi_demo.git
+[?2004lfatal: destination path 'mansukhi_demo' already exists and is not an empty directory.
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/git[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git[00m$ git status
+[?2004lfatal: not a git repository (or any of the parent directories): .git
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/git[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git[00m$ cd mansukhi_demo
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/git/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git/mansukhi_demo[00m$ git clone [7mhttps://githu[27m[7mb[27m[7m.com/Abhi-Tiger/mansukhi_demo.git[27m[A]0;abhinavsharma@abhinavsharma: ~/Desktop/git/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git/mansukhi_demo[00m$ [C[C[C[C[C[C[C[C[C[Chttps://github.com/Abhi-Tiger/mansukhi_demo.git
+[?2004lCloning into 'mansukhi_demo'...
+remote: Enumerating objects: 12, done.[K
+remote: Counting objects:   8% (1/12)[Kremote: Counting objects:  16% (2/12)[Kremote: Counting objects:  25% (3/12)[Kremote: Counting objects:  33% (4/12)[Kremote: Counting objects:  41% (5/12)[Kremote: Counting objects:  50% (6/12)[Kremote: Counting objects:  58% (7/12)[Kremote: Counting objects:  66% (8/12)[Kremote: Counting objects:  75% (9/12)[Kremote: Counting objects:  83% (10/12)[Kremote: Counting objects:  91% (11/12)[Kremote: Counting objects: 100% (12/12)[Kremote: Counting objects: 100% (12/12), done.[K
+remote: Compressing objects:  16% (1/6)[Kremote: Compressing objects:  33% (2/6)[Kremote: Compressing objects:  50% (3/6)[Kremote: Compressing objects:  66% (4/6)[Kremote: Compressing objects:  83% (5/6)[Kremote: Compressing objects: 100% (6/6)[Kremote: Compressing objects: 100% (6/6), done.[K
+remote: Total 12 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Receiving objects:   8% (1/12)Receiving objects:  16% (2/12)Receiving objects:  25% (3/12)Receiving objects:  33% (4/12)Receiving objects:  41% (5/12)Receiving objects:  50% (6/12)Receiving objects:  58% (7/12)Receiving objects:  66% (8/12)Receiving objects:  75% (9/12)Receiving objects:  83% (10/12)Receiving objects:  91% (11/12)Receiving objects: 100% (12/12)Receiving objects: 100% (12/12), done.
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/git/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git/mansukhi_demo[00m$ git status
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mmansukhi_demo/[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/git/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git/mansukhi_demo[00m$ ls
+[?2004l[0m[01;34mmansukhi_demo[0m  README.md
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/git/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git/mansukhi_demo[00m$ cd mansukhi_demo
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/git/mansukhi_demo/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git/mansukhi_demo/mansukhi_demo[00m$ ls
+[?2004lindex.html  README.md
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/git/mansukhi_demo/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git/mansukhi_demo/mansukhi_demo[00m$ git statu s
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/git/mansukhi_demo/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git/mansukhi_demo/mansukhi_demo[00m$ git add.[K .  [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C. [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ci ndex.html[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C. [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K.
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/git/mansukhi_demo/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git/mansukhi_demo/mansukhi_demo[00m$ git statu s
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/git/mansukhi_demo/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git/mansukhi_demo/mansukhi_demo[00m$ git commi t -m "a"[K[KAdded index.html"
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/git/mansukhi_demo/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git/mansukhi_demo/mansukhi_demo[00m$ git push
+[?2004lUsername for 'https://github.com': Abhi-Tiger
+Password for 'https://Abhi-Tiger@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/Abhi-Tiger/mansukhi_demo.git/'
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/git/mansukhi_demo/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git/mansukhi_demo/mansukhi_demo[00m$ git push
+[?2004lUsername for 'https://github.com': Abhi-Tiger
+Password for 'https://Abhi-Tiger@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/Abhi-Tiger/mansukhi_demo.git/'
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/git/mansukhi_demo/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git/mansukhi_demo/mansukhi_demo[00m$ [K]0;abhinavsharma@abhinavsharma: ~/Desktop/git/mansukhi_demo/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git/mansukhi_demo/mansukhi_demo[00m$ [K]0;abhinavsharma@abhinavsharma: ~/Desktop/git/mansukhi_demo/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git/mansukhi_demo/mansukhi_demo[00m$ gir[Kt remote set-rel origin [7mgithub_pat_11BJCUVLY02G[27m[7mG[27m[7mju8Diuhd1_CwU70dFRccS7ougj6kb9CVqBQemj67mbFQfv2jJIM1NYAAOPTDBKSSa33Q8[27m[A]0;abhinavsharma@abhinavsharma: ~/Desktop/git/mansukhi_demo/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git/mansukhi_demo/mansukhi_demo[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgithub_pat_11BJCUVLY02GG[1Pju8Diuhd1_CwU70dFRccS7ougj6kb9CVqBQemj67mbFQfv2jJIM1NYAAOPTDBKSSa33Q[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kurl origin [K]0;abhinavsharma@abhinavsharma: ~/Desktop/git/mansukhi_demo/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git/mansukhi_demo/mansukhi_demo[00m$ git remote set-url origin [K[A[K]0;abhinavsharma@abhinavsharma: ~/Desktop/git/mansukhi_demo/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git/mansukhi_demo/mansukhi_demo[00m$ git remote set-url origin https://[7mgithub_pat_11BJCUVLY02GGju8Diuhd1_CwU70dFRccS7ougj6kb9C[27m[7mV[27m[7mqBQemj67mbFQfv2jJIM1NYAAOPTDBKSSa33Q8[27m[A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 [K@github.com/Tiger[K[K[K[K[KAbhi-Tiger/mansukhi_demo
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/git/mansukhi_demo/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git/mansukhi_demo/mansukhi_demo[00m$ git pusho rigin main[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kh  origin main
+[?2004lremote: Permission to Abhi-Tiger/mansukhi_demo.git denied to Abhi-Tiger.
+fatal: unable to access 'https://github.com/Abhi-Tiger/mansukhi_demo/': The requested URL returned error: 403
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/git/mansukhi_demo/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git/mansukhi_demo/mansukhi_demo[00m$ git push origin main[A]0;abhinavsharma@abhinavsharma: ~/Desktop/git/mansukhi_demo/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git/mansukhi_demo/mansukhi_demo[00m$ [C[C[C[Cremote set-url origin https://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@github.com/Abhi-Tiger/mansukhi_demo[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[7mAbhi-Tiger/mansukhi_demo[27mAbhi-Tiger/mansukhi_demo[C/Abhi-Tiger/mansukhi_demo[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/git/mansukhi_demo/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git/mansukhi_demo/mansukhi_demo[00m$ git push  origin main
+[?2004lremote: Permission to Abhi-Tiger/mansukhi_demo.git denied to Abhi-Tiger.
+fatal: unable to access 'https://github.com/Abhi-Tiger/mansukhi_demo/': The requested URL returned error: 403
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/git/mansukhi_demo/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git/mansukhi_demo/mansukhi_demo[00m$ cd ..
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/git/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git/mansukhi_demo[00m$ cd ..
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/git[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/git[00m$ cd ..
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop[00m$ cd ..
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~[00m$ ls
+[?2004l[0m[01;34mDesktop[0m    [01;34mDownloads[0m  my              my_unix_session  [01;34mPublic[0m  [01;34mTemplates[0m
+[01;34mDocuments[0m  [01;34mMusic[0m      my_git_session  [01;34mPictures[0m         [01;34msnap[0m    [01;34mVideos[0m
+[?2004h]0;abhinavsharma@abhinavsharma: ~[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~[00m$ cd Desktop
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop[00m$ ls
+[?2004l[0m[01;34mgit[0m  [01;34mproject[0m  [01;34mshell-lesson-data[0m
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop[00m$ ls [K[K[Kcd project
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ ls
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git init
+[?2004l[33mhint: Using 'master' as the name for the initial branch. This default branch name[m
+[33mhint: is subject to change. To configure the initial branch name to use in all[m
+[33mhint: of your new repositories, which will suppress this warning, call:[m
+[33mhint: [m
+[33mhint: 	git config --global init.defaultBranch <name>[m
+[33mhint: [m
+[33mhint: Names commonly chosen instead of 'master' are 'main', 'trunk' and[m
+[33mhint: 'development'. The just-created branch can be renamed via this command:[m
+[33mhint: [m
+[33mhint: 	git branch -m <name>[m
+Initialized empty Git repository in /home/abhinavsharma/Desktop/project/.git/
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ ls 
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ ls -a
+[?2004l[0m[01;34m.[0m  [01;34m..[0m  [01;34m.git[0m
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ ls .git
+[?2004l[0m[01;34mbranches[0m  config  description  HEAD  [01;34mhooks[0m  [01;34minfo[0m  [01;34mobjects[0m  [01;34mrefs[0m
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ names[K[K[K[K[Ktouch names.txt
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ ls
+[?2004lnames.txt
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git stats[Kus
+[?2004lOn branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mnames.txt[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git add .[Knames.txt
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git status
+[?2004lOn branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	[32mnew file:   names.txt[m
+
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git commit -m "names.txt file add ed [K"
+[?2004l[master (root-commit) 3ccc14f] names.txt file added
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 names.txt
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git status
+[?2004lOn branch master
+nothing to commit, working tree clean
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ vi names.txt
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[24;1H"names.txt" 0 lines, 0 bytes[2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?25h[?4m[?2004l[>4;m[?25l[mb[?25h[?25lh[?25h[?25li[?25h[?25ln[?25h[?25la[?25h[?25lv[?25h[?25l [?25h[?25ls[?25h[?25lh[?25h[?25la[?25h[?25lr[?25h[?25lm[?25h[?25la[?25h[?25l[2;1H[K[2;1H[?25h[?25la[?25h[?25ln[?25h[?25lu[?25h[?25lb[?25h[?25lh[?25h[?25la[?25h[?25lv[?25h[?25l [?25h[?2004h[>4;2m[?2004l[>4;m[?25l[2;23r[2;1H[L[1;24r[2;1HB[24;1H[K[2;2H[?4m[?25h[?25l[?25h[?2004h[>4;2m[?25l[2;1H[K[2;1H[?25h[?2004l[>4;m[?25l[2;23r[2;1H[L[1;24r[2;1HB[?4m[?25h[?25l:[?25h[?25l[?25h[?25l[?25h[?2004h[>4;2m[?25l[2;1H[K[2;1H[?25h[?2004l[>4;m[?25l[2;23r[2;1H[L[1;24r[2;1HA[?4m[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[2;23r[2;1H[L[1;24r[2;1HA[?4m[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[2;23r[2;1H[L[1;24r[2;1HB[?4m[?25h[?25l[3;23r[3;1H[L[1;24r[3;1H[?25h[?25l;[?25h[?25l[?25h[?25lx[?25h[?25l[?25h[?25l:[?25h[?25lx[?25h[?25l[4;23r[4;1H[L[1;24r[4;1H[?25h[?25l[5;23r[5;1H[L[1;24r[5;1H[?25h[?25l[6;23r[6;1H[L[1;24r[6;1H[?25h[?25l[7;23r[7;1H[L[1;24r[7;1H[?25h[?25l[8;23r[8;1H[L[1;24r[8;1H[?25h[?25l[9;23r[9;1H[L[1;24r[9;1H[?25h[?25l[10;23r[10;1H[L[1;24r[10;1H[?25h[?25l[11;23r[11;1H[L[1;24r[11;1H[?25h[?25l[12;23r[12;1H[L[1;24r[12;1H[?25h[?25l[13;23r[13;1H[L[1;24r[13;1H[?25h[?25l[14;23r[14;1H[L[1;24r[14;1H[?25h[?25l[15;23r[15;1H[L[1;24r[15;1H[?25h[?25l[16;23r[16;1H[L[1;24r[16;1H[?25h[?25l[17;23r[17;1H[L[1;24r[17;1H[?25h[?25l[18;23r[18;1H[L[1;24r[18;1H[?25h[?25l[19;23r[19;1H[L[1;24r[19;1H[?25h[?25l[20;23r[20;1H[L[1;24r[20;1H[?25h[?25l[21;23r[21;1H[L[1;24r[21;1H[?25h[?25l[22;1H[K[22;1H[?25h[?25l[23;1H[K[23;1H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H[?25h[?2004h[>4;2m[?4m[?2004l[>4;m[?25l:[?25h[?25lq[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H[?25h[?25lq[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H[?25h[?25l;[?25h[?25l[?25h[?25l:[?25h[?25lq[?25h[?25l![?25h[?25l[1;23r[23;1H
+[1;24r[23;1H[?25h[?2004h[>4;2m[?4m[?25l
+:[?25hq1[?25l[24;3H[K[24;3H[?25h![?25l[?2004l[>4;m[23;2t[23;1t[24;1H[K[24;1H[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ cat names.txt
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ vi names.txt
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[24;1H"names.txt" 0 lines, 0 bytes[2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?25h[?4m[?2004l[>4;m[?25l[mb[?25h[?25lh[?25h[?25li[?25h[?25ln[?25h[?25la[?25h[?25lv[?25h[?25l [?25h[?25ls[?25h[?25lh[?25h[?25la[?25h[?25lr[?25h[?25lm[?25h[?25la[?25h[?25l[2;1H[K[2;1H[?25h[?25la[?25h[?25ln[?25h[?25lu[?25h[?25lb[?25h[?25lh[?25h[?25la[?25h[?25lv[?25h[?25l [?25h[?25ls[?25h[?25lh[?25h[?25la[?25h[?25lr[?25h[?25lm[?25h[?25la[?25h[?25l[3;1H[K[3;1H[?25h[?2004h[>4;2m[?4m[?25l[24;1H[K[24;1H:[?25hw[?25l"names.txt" 3 lines, 30 bytes written[3;1H[?25h[?25l[24;1H[K[24;1H:[?25hx[?25l[?2004l[>4;m[23;2t[23;1t[24;1H[K[24;1H[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ cat names.txt
+[?2004lbhinav sharma
+anubhav sharma
+
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git stati[Kus
+[?2004lOn branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   names.txt[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git add.
+[?2004lgit: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+	add
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git add .
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git status
+[?2004lOn branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mmodified:   names.txt[m
+
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git restore --staged names.txt
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git status
+[?2004lOn branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   names.txt[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git add names.txt
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git status
+[?2004lOn branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mmodified:   names.txt[m
+
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git commit -m
+[?2004lerror: switch `m' requires a value
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git commit -m"[K "nm[Kames.txt files mo difir[Ker"
+[?2004l[master c861cee] names.txt files modifier
+ 1 file changed, 3 insertions(+)
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ exitr[K
+[?2004lexit
+
+Script done on 2024-06-18 00:12:55+05:30 [COMMAND_EXIT_CODE="0"]
+Script started on 2024-06-18 11:28:49+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="32"]
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ cat my_git_sessionscript ~/my_git_sessionpwd[Kexitgit commit -m "names.txt files modifier"[K[3Pstatusadd names.txt[7Pstatusrestore --staged names.txtstatus[K[1Padd .[1P.statuscat names.txt[1Pvi[C[C[C[C[C[C[C[C[C[C[1@cat[C[C[C[C[C[C[C[C[C[C[1Pvi[C[C[C[C[C[C[C[C[C[C[1@cat[C[C[C[C[C[C[C[C[C[C[3Pgit status[2Padd. .statusrestore --staged names.txtstatus[Kadd names.txt[7Pstatuscommit -m "names.txt files modifier"exit[K[1Ppwdscript ~/my_git_session[5Pcat my_git_session[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kls-a
+[?2004lls-a: command not found
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ la -a
+[?2004l[0m[01;34m.[0m  [01;34m..[0m  [01;34m.git[0m
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git log
+[?2004l[?1h=[33mcommit 3ccc14f46415135f3d1df214641746f099ff642e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m[m
+Author: Abhi-Tiger <abhiav.sharma01@tigeranalytics.com>[m
+Date:   Mon Jun 17 23:58:05 2024 +0530[m
+[m
+    names.txt file added[m
+[K[?1l>[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ rm -rf names.txt
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git status
+[?2004lOn branch master
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mdeleted:    names.txt[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git add.
+[?2004lgit: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+	add
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git add .
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git commit -m "names.txt file deleted"
+[?2004l[master 6c95221] names.txt file deleted
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 names.txt
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git log
+[?2004l[?1h=[33mcommit 6c9522173444c0a9a0caf70c4d763fa0bc0152a9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m[m
+Author: Abhi-Tiger <abhiav.sharma01@tigeranalytics.com>[m
+Date:   Tue Jun 18 11:31:52 2024 +0530[m
+[m
+    names.txt file deleted[m
+[m
+[33mcommit 3ccc14f46415135f3d1df214641746f099ff642e[m[m
+Author: Abhi-Tiger <abhiav.sharma01@tigeranalytics.com>[m
+Date:   Mon Jun 17 23:58:05 2024 +0530[m
+[m
+    names.txt file added[m
+[K[?1l>[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git reset [7m3ccc14f46415135f3d1df214641746f099ff642e[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C3ccc14f46415135f3d1df214641746f099ff642e
+[A
+[?2004lUnstaged changes after reset:
+D	names.txt
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git log
+[?2004l[?1h=[33mcommit 3ccc14f46415135f3d1df214641746f099ff642e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m[m
+Author: Abhi-Tiger <abhiav.sharma01@tigeranalytics.com>[m
+Date:   Mon Jun 17 23:58:05 2024 +0530[m
+[m
+    names.txt file added[m
+[K[?1l>[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git stas[Ktus
+[?2004lOn branch master
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mdeleted:    names.txt[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git stash[K[K[K[K[Kadd .
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ gitsta[K[K[K status
+[?2004lOn branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mdeleted:    names.txt[m
+
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ touch surnames.txt
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git status
+[?2004lOn branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mdeleted:    names.txt[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31msurnames.txt[m
+
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git add .
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ sit [K[K[K[Kgo[Kit status
+[?2004lOn branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mrenamed:    names.txt -> surnames.txt[m
+
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ vi surnames.txt
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;32r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[32;1H"surnames.txt" 0 lines, 0 bytes[2;1H[94m~                                                                                                                       [3;1H~                                                                                                                       [4;1H~                                                                                                                       [5;1H~                                                                                                                       [6;1H~                                                                                                                       [7;1H~                                                                                                                       [8;1H~                                                                                                                       [9;1H~                                                                                                                       [10;1H~                                                                                                                       [11;1H~                                                                                                                       [12;1H~                                                                                                                       [13;1H~                                                                                                                       [14;1H~                                                                                                                       [15;1H~                                                                                                                       [16;1H~                                                                                                                       [17;1H~                                                                                                                       [18;1H~                                                                                                                       [19;1H~                                                                                                                       [20;1H~                                                                                                                       [21;1H~                                                                                                                       [22;1H~                                                                                                                       [23;1H~                                                                                                                       [24;1H~                                                                                                                       [25;1H~                                                                                                                       [26;1H~                                                                                                                       [27;1H~                                                                                                                       [28;1H~                                                                                                                       [29;1H~                                                                                                                       [30;1H~                                                                                                                       [31;1H~                                                                                                                       [1;1H[?25h[?4m[?25l[?25h[?2004l[>4;m[?25l[mh[?25h[?25la[?25h[?25lr[?25h[?25l[2;1H[K[2;1H[?25h[?25ls[?25h[?25li[?25h[?25lk[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[2;31r[2;1H[L[1;32r[2;1HB[32;1H[K[2;2H[?4m[?25h[?25l[?25h[?2004h[>4;2m[?25l[2;1H[K[2;1H[?25h[?2004l[>4;m[?25l[2;31r[2;1H[L[1;32r[2;1HC[?4m[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[2;31r[2;1H[L[1;32r[2;1HB[?4m[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[2;31r[2;1H[L[1;32r[2;1HB[?4m[?25h[?25l[?25h[?25l[2;1H[K[3;1H[K[4;1HB
+C[6;1H[K[7;1Hsik[7;4H[K[3;1H[?25h[?2004h[>4;2m[?4m[?25l[32;1H:[?25h[?25l[3;1H[?25h[?25l[32;1H[K[32;1H:[?25hx[?25l[?2004l[>4;m"surnames.txt" 7 lines, 15 bytes written[23;2t[23;1t
+[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ toy[Kuch houses.txt
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git aff[K[Kdd .
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git status
+[?2004lOn branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mrenamed:    names.txt -> houses.txt[m
+	[32mnew file:   surnames.txt[m
+
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git stash
+[?2004lSaved working directory and index state WIP on master: 3ccc14f names.txt file added
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git status
+[?2004lOn branch master
+nothing to commit, working tree clean
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git log
+[?2004l[?1h=[33mcommit 3ccc14f46415135f3d1df214641746f099ff642e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m[m
+Author: Abhi-Tiger <abhiav.sharma01@tigeranalytics.com>[m
+Date:   Mon Jun 17 23:58:05 2024 +0530[m
+[m
+    names.txt file added[m
+[K[?1l>[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git config[C[C[C[C[K[K[Kfig --global user.email "Ab[K[Kabhinavsharma.01@tih[Kgeranalytics.com"
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git log
+[?2004l[?1h=[33mcommit 3ccc14f46415135f3d1df214641746f099ff642e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m[m
+Author: Abhi-Tiger <abhiav.sharma01@tigeranalytics.com>[m
+Date:   Mon Jun 17 23:58:05 2024 +0530[m
+[m
+    names.txt file added[m
+[K[?1l>[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ cat bnam=[K[K[K[K[Knames.txt
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git stash pop
+[?2004lOn branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   houses.txt[m
+	[32mnew file:   surnames.txt[m
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mdeleted:    names.txt[m
+
+Dropped refs/stash@{0} (0c08eac81ee01c0e89d8251cb735ce3cb5641a72)
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git add .
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git stash [K
+[?2004lSaved working directory and index state WIP on master: 3ccc14f names.txt file added
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git stash cleaer[K[K[Kar
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git remote add origin [7mhttps://github.com/Abhi-Tiger/git_project_tiger[27mhttps://github.com/Abhi-Tiger/git_project_tiger.git [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kt
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git remote -v
+[?2004lorigin	https://github.com/Abhi-Tiger/git_project_tiger.git (fetch)
+origin	https://github.com/Abhi-Tiger/git_project_tiger.git (push)
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git push origin master
+[?2004lUsername for 'https://github.com': Abhi-Tiger
+Password for 'https://Abhi-Tiger@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/Abhi-Tiger/git_project_tiger.git/'
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git push
+[?2004lfatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+To have this happen automatically for branches without a tracking
+upstream, see 'push.autoSetupRemote' in 'git help config'.
+
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git push origin master
+[?2004lUsername for 'https://github.com': Abhi-Tiger
+Password for 'https://Abhi-Tiger@github.com': 
+Enumerating objects: 3, done.
+Counting objects:  33% (1/3)Counting objects:  66% (2/3)Counting objects: 100% (3/3)Counting objects: 100% (3/3), done.
+Writing objects:  33% (1/3)Writing objects:  66% (2/3)Writing objects: 100% (3/3)Writing objects: 100% (3/3), 230 bytes | 230.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/Abhi-Tiger/git_project_tiger.git
+ * [new branch]      master -> master
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ touch hotel.txt
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git add .
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git commit -m "hotel.txt added"
+[?2004l[master 0965d84] hotel.txt added
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 hotel.txt
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ touch roo[Kll.no.txt
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git add.[K .
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git coo[Kmmit -m "roll no. added "
+[?2004l[master 5d3c318] roll no. added
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 roll.no.txt
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ touc[K[K[K[Kvi to[K[Kroll.no[K[K[K[Kl.no.txt
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;32r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[32;1H"roll.no.txt" 0 lines, 0 bytes[2;1H[94m~                                                                                                                       [3;1H~                                                                                                                       [4;1H~                                                                                                                       [5;1H~                                                                                                                       [6;1H~                                                                                                                       [7;1H~                                                                                                                       [8;1H~                                                                                                                       [9;1H~                                                                                                                       [10;1H~                                                                                                                       [11;1H~                                                                                                                       [12;1H~                                                                                                                       [13;1H~                                                                                                                       [14;1H~                                                                                                                       [15;1H~                                                                                                                       [16;1H~                                                                                                                       [17;1H~                                                                                                                       [18;1H~                                                                                                                       [19;1H~                                                                                                                       [20;1H~                                                                                                                       [21;1H~                                                                                                                       [22;1H~                                                                                                                       [23;1H~                                                                                                                       [24;1H~                                                                                                                       [25;1H~                                                                                                                       [26;1H~                                                                                                                       [27;1H~                                                                                                                       [28;1H~                                                                                                                       [29;1H~                                                                                                                       [30;1H~                                                                                                                       [31;1H~                                                                                                                       [1;1H[?25h[?4m[?2004l[>4;m[?2004h[>4;2m[?2004l[>4;m[?25l[mF[2;1H[K[1;2H[?4m[?25h[?2004h[>4;2m[?2004l[>4;m[?25l
+F[3;1H[K[1;2H[?4m[?25h[?2004h[>4;2m[?2004l[>4;m[?25lC
+
+F[4;1H[K[1;2H[?4m[?25h[?2004h[>4;2m[?25lc[?25h[?2004l[>4;m[?25lE
+c
+
+F[5;1H[K[1;2H[?4m[?25h[?2004h[>4;2m[?2004l[>4;m[?25lF
+E
+c
+
+F[6;1H[K[1;2H[?4m[?25h[?2004h[>4;2m[?25lf[?25h[?2004l[>4;m[?2004h[>4;2m[?25lE
+f
+E
+c
+
+F[7;1H[K[1;1H[?25h[?2004l[>4;m[?2004h[>4;2m[?25lF
+E
+f
+E
+c
+
+F[8;1H[K[1;1H[?25h[?2004l[>4;m[?2004h[>4;2m[?25lC
+F
+E
+f
+E
+c
+
+F[9;1H[K[1;1H[?25h[?2004l[>4;m[?25lE
+C
+F
+E
+f
+E
+c
+
+F[10;1H[K[1;2H[?4m[?25h[?25lgh[?25h[?25lh[?25h[?25ls[?25h[?25lj[?25h[?25ld[?25h[?25lj[?25h[?25ld[?25h[?2004h[>4;2m[?2004l[>4;m[?25lB[1;2H[K[2;1HEghhsjdjd
+C
+F
+E
+f
+E
+c
+
+F[11;1H[K[1;2H[?4m[?25h[?2004h[>4;2m[?2004l[>4;m[?25lA
+B[2;2H[K[3;1HEghhsjdjd
+C
+F
+E
+f
+E
+c
+
+F[12;1H[K[1;2H[?4m[?25h[?25l[2;31r[2;1H[L[1;32r[32;1H[K[2;1H[?25h[?2004h[>4;2m[?4m[?25l[32;1H:[?25hx[?25l[?2004l[>4;m"roll.no.txt" 13 lines, 32 bytes written[23;2t[23;1t
+[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git status
+[?2004lOn branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   roll.no.txt[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git add .
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git commit -m"[K "roll no. t[K[Ktxt modified"
+[?2004l[master a114457] roll no.txt modified
+ 1 file changed, 13 insertions(+)
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git log
+[?2004l[?1h=[33mcommit a11445750ec53311598561bdc1765ed366e4a5f2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m[m
+Author: Abhi-Tiger <abhinavsharma.01@tigeranalytics.com>[m
+Date:   Tue Jun 18 12:06:17 2024 +0530[m
+[m
+    roll no.txt modified[m
+[m
+[33mcommit 5d3c3180d9cdd54d2c45c7d33aba275f71dc52e5[m[m
+Author: Abhi-Tiger <abhinavsharma.01@tigeranalytics.com>[m
+Date:   Tue Jun 18 12:04:00 2024 +0530[m
+[m
+    roll no. added[m
+[m
+[33mcommit 0965d843c95751a843bba7f8db6e0e63989cd5ee[m[m
+Author: Abhi-Tiger <abhinavsharma.01@tigeranalytics.com>[m
+Date:   Tue Jun 18 12:03:23 2024 +0530[m
+[m
+    hotel.txt added[m
+[m
+[33mcommit 3ccc14f46415135f3d1df214641746f099ff642e[m[33m ([m[1;31morigin/master[m[33m)[m[m
+Author: Abhi-Tiger <abhiav.sharma01@tigeranalytics.com>[m
+Date:   Mon Jun 17 23:58:05 2024 +0530[m
+[m
+    names.txt file added[m
+[K[?1l>[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ ls .git
+[?2004l[0m[01;34mbranches[0m  COMMIT_EDITMSG  config  description  HEAD  [01;34mhooks[0m  index  [01;34minfo[0m  [01;34mlogs[0m  [01;34mobjects[0m  ORIG_HEAD  [01;34mrefs[0m
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git branch feature
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git checkout main
+[?2004lerror: pathspec 'main' did not match any file(s) known to git
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git checkout master
+[?2004lAlready on 'master'
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git log
+[?2004l[?1h=[33mcommit a11445750ec53311598561bdc1765ed366e4a5f2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;32mfeature[m[33m)[m[m
+Author: Abhi-Tiger <abhinavsharma.01@tigeranalytics.com>[m
+Date:   Tue Jun 18 12:06:17 2024 +0530[m
+[m
+    roll no.txt modified[m
+[m
+[33mcommit 5d3c3180d9cdd54d2c45c7d33aba275f71dc52e5[m[m
+Author: Abhi-Tiger <abhinavsharma.01@tigeranalytics.com>[m
+Date:   Tue Jun 18 12:04:00 2024 +0530[m
+[m
+    roll no. added[m
+[m
+[33mcommit 0965d843c95751a843bba7f8db6e0e63989cd5ee[m[m
+Author: Abhi-Tiger <abhinavsharma.01@tigeranalytics.com>[m
+Date:   Tue Jun 18 12:03:23 2024 +0530[m
+[m
+    hotel.txt added[m
+[m
+[33mcommit 3ccc14f46415135f3d1df214641746f099ff642e[m[33m ([m[1;31morigin/master[m[33m)[m[m
+Author: Abhi-Tiger <abhiav.sharma01@tigeranalytics.com>[m
+Date:   Mon Jun 17 23:58:05 2024 +0530[m
+[m
+    names.txt file added[m
+[K[?1l>[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ go[Kit remote -v
+[?2004lorigin	https://github.com/Abhi-Tiger/git_project_tiger.git (fetch)
+origin	https://github.com/Abhi-Tiger/git_project_tiger.git (push)
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git push origin master [K
+[?2004lUsername for 'https://github.com': Abhi-Tiger
+Password for 'https://Abhi-Tiger@github.com': 
+Enumerating objects: 8, done.
+Counting objects:  12% (1/8)Counting objects:  25% (2/8)Counting objects:  37% (3/8)Counting objects:  50% (4/8)Counting objects:  62% (5/8)Counting objects:  75% (6/8)Counting objects:  87% (7/8)Counting objects: 100% (8/8)Counting objects: 100% (8/8), done.
+Delta compression using up to 4 threads
+Compressing objects:  16% (1/6)Compressing objects:  33% (2/6)Compressing objects:  50% (3/6)Compressing objects:  66% (4/6)Compressing objects:  83% (5/6)Compressing objects: 100% (6/6)Compressing objects: 100% (6/6), done.
+Writing objects:  14% (1/7)Writing objects:  28% (2/7)Writing objects:  42% (3/7)Writing objects:  57% (4/7)Writing objects:  71% (5/7)Writing objects:  85% (6/7)Writing objects: 100% (7/7)Writing objects: 100% (7/7), 700 bytes | 233.00 KiB/s, done.
+Total 7 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas:   0% (0/2)[Kremote: Resolving deltas:  50% (1/2)[Kremote: Resolving deltas: 100% (2/2)[Kremote: Resolving deltas: 100% (2/2), done.[K
+To https://github.com/Abhi-Tiger/git_project_tiger.git
+   3ccc14f..a114457  master -> master
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git log
+[?2004l[?1h=[33mcommit a11445750ec53311598561bdc1765ed366e4a5f2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mfeature[m[33m)[m[m
+Author: Abhi-Tiger <abhinavsharma.01@tigeranalytics.com>[m
+Date:   Tue Jun 18 12:06:17 2024 +0530[m
+[m
+    roll no.txt modified[m
+[m
+[33mcommit 5d3c3180d9cdd54d2c45c7d33aba275f71dc52e5[m[m
+Author: Abhi-Tiger <abhinavsharma.01@tigeranalytics.com>[m
+Date:   Tue Jun 18 12:04:00 2024 +0530[m
+[m
+    roll no. added[m
+[m
+[33mcommit 0965d843c95751a843bba7f8db6e0e63989cd5ee[m[m
+Author: Abhi-Tiger <abhinavsharma.01@tigeranalytics.com>[m
+Date:   Tue Jun 18 12:03:23 2024 +0530[m
+[m
+    hotel.txt added[m
+[m
+[33mcommit 3ccc14f46415135f3d1df214641746f099ff642e[m[m
+Author: Abhi-Tiger <abhiav.sharma01@tigeranalytics.com>[m
+Date:   Mon Jun 17 23:58:05 2024 +0530[m
+[m
+    names.txt file added[m
+[K[?1l>[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/project[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/project[00m$ git [K[K[K[Kcd ..
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop[00m$ git clone [7mhttps://github.com/Abhi-Tiger/mansukhi_demo.git[27mhttps://github.com/Abhi-Tiger/mansukhi_demo.git
+[?2004lCloning into 'mansukhi_demo'...
+remote: Enumerating objects: 12, done.[K
+remote: Counting objects:   8% (1/12)[Kremote: Counting objects:  16% (2/12)[Kremote: Counting objects:  25% (3/12)[Kremote: Counting objects:  33% (4/12)[Kremote: Counting objects:  41% (5/12)[Kremote: Counting objects:  50% (6/12)[Kremote: Counting objects:  58% (7/12)[Kremote: Counting objects:  66% (8/12)[Kremote: Counting objects:  75% (9/12)[Kremote: Counting objects:  83% (10/12)[Kremote: Counting objects:  91% (11/12)[Kremote: Counting objects: 100% (12/12)[Kremote: Counting objects: 100% (12/12), done.[K
+remote: Compressing objects:  16% (1/6)[Kremote: Compressing objects:  33% (2/6)[Kremote: Compressing objects:  50% (3/6)[Kremote: Compressing objects:  66% (4/6)[Kremote: Compressing objects:  83% (5/6)[Kremote: Compressing objects: 100% (6/6)[Kremote: Compressing objects: 100% (6/6), done.[K
+remote: Total 12 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Receiving objects:   8% (1/12)Receiving objects:  16% (2/12)Receiving objects:  25% (3/12)Receiving objects:  33% (4/12)Receiving objects:  41% (5/12)Receiving objects:  50% (6/12)Receiving objects:  58% (7/12)Receiving objects:  66% (8/12)Receiving objects:  75% (9/12)Receiving objects:  83% (10/12)Receiving objects:  91% (11/12)Receiving objects: 100% (12/12)Receiving objects: 100% (12/12), done.
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop[00m$ cat README.md
+[?2004lcat: README.md: No such file or directory
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop[00m$ cd manuskhi-demo
+[?2004lbash: cd: manuskhi-demo: No such file or directory
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop[00m$ ma[K[Kcd manuskhi-demo[1Pdemo_demo[C[C[C[C
+[?2004lbash: cd: manuskhi_demo: No such file or directory
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop[00m$ cd mansy[Kukhi_demo
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/mansukhi_demo[00m$ cat README.md
+[?2004l# demo
+
+
+
+
+
+some description!!
+##subheader
+make the lime substances
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/mansukhi_demo[00m$ git remote add upstram [7mhttps://github.com/Abhi-Tiger/mansukhi_demo.[27m[7mg[27m[7mit[27m[A]0;abhinavsharma@abhinavsharma: ~/Desktop/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/mansukhi_demo[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://github.com/Abhi-Tiger/mansukhi_demo.git
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/mansukhi_demo[00m$ git remote -v
+[?2004lorigin	https://github.com/Abhi-Tiger/mansukhi_demo.git (fetch)
+origin	https://github.com/Abhi-Tiger/mansukhi_demo.git (push)
+upstram	https://github.com/Abhi-Tiger/mansukhi_demo.git (fetch)
+upstram	https://github.com/Abhi-Tiger/mansukhi_demo.git (push)
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/mansukhi_demo[00m$ vi README.md
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;32r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[32;1H"README.md" 9 lines, 68 bytes[1;1H# demo[7;1Hsome description!!
+##subheader
+make the lime substances
+[94m~                                                                                                                       [11;1H~                                                                                                                       [12;1H~                                                                                                                       [13;1H~                                                                                                                       [14;1H~                                                                                                                       [15;1H~                                                                                                                       [16;1H~                                                                                                                       [17;1H~                                                                                                                       [18;1H~                                                                                                                       [19;1H~                                                                                                                       [20;1H~                                                                                                                       [21;1H~                                                                                                                       [22;1H~                                                                                                                       [23;1H~                                                                                                                       [24;1H~                                                                                                                       [25;1H~                                                                                                                       [26;1H~                                                                                                                       [27;1H~                                                                                                                       [28;1H~                                                                                                                       [29;1H~                                                                                                                       [30;1H~                                                                                                                       [31;1H~                                                                                                                       [1;1H[?25h[?4m
+[?2004l[>4;m[?25l[mb[?25h[?25lh[?25h[?25li[?25h[?25ln[?25h[?25la[?25h[?25lv[?25h[?25l [?25h[?25ls[?25h[?25lh[?25h[?25la[?25h[?25lr[?25h[?25lm[?25h[?25la[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[2;31r[2;1H[L[1;32r[2;1HC[32;1H[K[2;2H[?4m[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[2;31r[2;1H[L[1;32r[2;1HC[?4m[?25h[?25l[?25h[?2004h[>4;2m[?25l[2;1H[K[2;1H[?25h[?4m[?25l[32;1H:[?25hx[?25l[?2004l[>4;m"README.md" 11 lines, 84 bytes written[23;2t[23;1t
+[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/mansukhi_demo[00m$ git status
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   README.md[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/mansukhi_demo[00m$ git bt[Kransh [K[K[Kc[K[K[K[K[K[K[Kt checkout feature
+[?2004lerror: pathspec 'feature' did not match any file(s) known to git
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/mansukhi_demo[00m$ git bransh abhi
+[?2004lgit: 'bransh' is not a git command. See 'git --help'.
+
+The most similar command is
+	branch
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/mansukhi_demo[00m$ git branch abhi
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/mansukhi_demo[00m$ git checkoubt[K[K[Kt [K[Kut abhi
+[?2004lM	README.md
+Switched to branch 'abhi'
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/mansukhi_demo[00m$ git add .
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/mansukhi_demo[00m$ git commit -m "abhi added a msg"
+[?2004l[abhi b2ac1dd] abhi added a msg
+ 1 file changed, 2 insertions(+)
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/mansukhi_demo[00m$ git log
+[?2004l[?1h=[33mcommit b2ac1dd98170afb3480b683b6fa1b6bfbdcbe58e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mabhi[m[33m)[m[m
+Author: Abhi-Tiger <abhinavsharma.01@tigeranalytics.com>[m
+Date:   Tue Jun 18 12:37:49 2024 +0530[m
+[m
+    abhi added a msg[m
+[m
+[33mcommit a249a957d59d387a72648ab17e75142a8ba79c83[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m[m
+Author: Abhi-Tiger <abhinav.sharma01@tigeranalytics.com>[m
+Date:   Mon Jun 17 23:01:08 2024 +0530[m
+[m
+    Create index.html[m
+[m
+[33mcommit af8f283fa958f6f34018996a47b8912980f3da7d[m[m
+Author: Abhi-Tiger <abhinav.sharma01@tigeranalytics.com>[m
+Date:   Mon Jun 17 22:57:43 2024 +0530[m
+[m
+    Update README.md[m
+[m
+[33mcommit 4cc6d46149a3ed41b254a77af8e8f9518eaa10e9[m[m
+Author: Abhi-Tiger <abhinav.sharma01@tigeranalytics.com>[m
+Date:   Mon Jun 17 22:39:46 2024 +0530[m
+[m
+    Update README.md[m
+[m
+[33mcommit 4c059a2208f704ac5f361f9f63ce37055724c9b7[m[m
+Author: Abhi-Tiger <abhinav.sharma01@tigeranalytics.com>[m
+Date:   Mon Jun 17 22:38:10 2024 +0530[m
+[m
+    Create README.md[m
+[K[?1l>[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/mansukhi_demo[00m$ git pusj[Kh origin a[KAbhi
+[?2004lerror: src refspec Abhi does not match any
+[31merror: failed to push some refs to 'https://github.com/Abhi-Tiger/mansukhi_demo.git'
+[m[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/mansukhi_demo[00m$ git push origin abhi
+[?2004lUsername for 'https://github.com': Abhi-Tiger
+Password for 'https://Abhi-Tiger@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/Abhi-Tiger/mansukhi_demo.git/'
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/mansukhi_demo[00m$ touch names.txt
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/mansukhi_demo[00m$ git add .
+[?2004l[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/mansukhi_demo[00m$ git checkout abhi
+[?2004lA	names.txt
+Already on 'abhi'
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/mansukhi_demo[00m$ git push origin abhi
+[?2004lUsername for 'https://github.com': Abhi-Tiger
+Password for 'https://Abhi-Tiger@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/Abhi-Tiger/mansukhi_demo.git/'
+[?2004h]0;abhinavsharma@abhinavsharma: ~/Desktop/mansukhi_demo[01;32mabhinavsharma@abhinavsharma[00m:[01;34m~/Desktop/mansukhi_demo[00m$ exit
+[?2004lexit
+
+Script done on 2024-06-18 12:50:31+05:30 [COMMAND_EXIT_CODE="128"]
